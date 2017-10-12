@@ -7,7 +7,8 @@
     ],
     "parserOptions": {
       "ecmaVersion": 7,
-      "sourceType": "module"
+      "sourceType": "module",
+      "globalReturn":true
     },
     "env": {
       "browser": true,
